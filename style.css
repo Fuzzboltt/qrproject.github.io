@@ -1,0 +1,43 @@
+.qrcode {
+    width: 330px;
+    height: 330px;
+    border-radius: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-top: -535px;
+
+}
+
+.rectangle {
+    width: 370px;
+    height: 550px;
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-top: 200px;
+    border-radius: 20px;
+    box-shadow: 500px 500px rgb(rgb(0, 0, 0), rgb(0, 0, 0), blue);
+
+}
+
+.title {
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-size: 25px;
+    font-family: "Outfit", sans-serif;
+}
+
+.paragraph {
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    font-size: 15px;
+    font-family: "Outfit", sans-serif;
+}
+
+.attribution {
+    margin-top: 100px;
+}
